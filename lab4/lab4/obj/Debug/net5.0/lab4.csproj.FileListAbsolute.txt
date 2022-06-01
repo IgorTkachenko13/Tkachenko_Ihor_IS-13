@@ -1,0 +1,16 @@
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\bin\Debug\net5.0\lab4.exe
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\bin\Debug\net5.0\lab4.deps.json
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.json
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.dev.json
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\bin\Debug\net5.0\lab4.dll
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\bin\Debug\net5.0\lab4.pdb
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\lab4.csproj.AssemblyReference.cache
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfoInputs.cache
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfo.cs
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\lab4.csproj.CoreCompileInputs.cache
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\lab4.dll
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\refint\lab4.dll
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\lab4.pdb
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\lab4.genruntimeconfig.cache
+D:\2 семестр\Програмування\Лаби\лаба №4\lab4\lab4\obj\Debug\net5.0\ref\lab4.dll
