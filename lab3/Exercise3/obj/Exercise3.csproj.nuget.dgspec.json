@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab_3\\Exercise3\\Exercise3.csproj": {}
+    "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab3\\Exercise3\\Exercise3.csproj": {}
   },
   "projects": {
-    "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab_3\\Exercise3\\Exercise3.csproj": {
+    "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab3\\Exercise3\\Exercise3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab_3\\Exercise3\\Exercise3.csproj",
+        "projectUniqueName": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab3\\Exercise3\\Exercise3.csproj",
         "projectName": "Exercise3",
-        "projectPath": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab_3\\Exercise3\\Exercise3.csproj",
+        "projectPath": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab3\\Exercise3\\Exercise3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab_3\\Exercise3\\obj\\",
+        "outputPath": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab3\\Exercise3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab_3\\Exercise2\\Exercise2.csproj",
+      "projectUniqueName": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab3\\Exercise2\\Exercise2.csproj",
       "projectName": "Exercise2",
-      "projectPath": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab_3\\Exercise2\\Exercise2.csproj",
+      "projectPath": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab3\\Exercise2\\Exercise2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab_3\\Exercise2\\obj\\",
+      "outputPath": "D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\lab3\\Exercise2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

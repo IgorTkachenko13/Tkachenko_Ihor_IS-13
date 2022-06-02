@@ -23,12 +23,13 @@ namespace Exercise1
 
         static void Main(string[] args)
         {
-            string stringOfSymbol = ReadFile("D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\Ex1.TXT");
-            string[] arrlist = stringOfSymbol.Split(new char[] { ' ' });
+            string str = ReadFile("D:\\2 семестр\\Програмування\\Лаби\\лаба №3\\Ex1.TXT");
+            string stringOfSymbol = str.Replace(" ", "");
+            char[] charArray = stringOfSymbol.ToCharArray();
 
-            List<string> list = new List<string>();
-            foreach (string str in arrlist)
-                list.Add(str);
+            List<char> list = new List<char>();
+            foreach (char ch in charArray)
+                list.Add(ch);
 
             int numOfVowelLetter = 0;
             int numOfConsonantLetter = 0;
@@ -37,17 +38,17 @@ namespace Exercise1
             {
                 bool isVowelLetter;
                 {
-                    isVowelLetter = list[i] == "e" || list[i] == "y" || list[i] == "u" || list[i] == "i" || list[i] == "o" || list[i] == "a" ||
-                    list[i] == "E" || list[i] == "Y" || list[i] == "U" || list[i] == "I" || list[i] == "O" || list[i] == "A";
+                    isVowelLetter = list[i] == 'e' || list[i] == 'y' || list[i] == 'u' || list[i] == 'i' || list[i] == 'o' || list[i] == 'a' ||
+                    list[i] == 'E' || list[i] == 'Y' || list[i] == 'U' || list[i] == 'I' || list[i] == 'O' || list[i] == 'A';
                 }
                 bool isConsonantLetter;
                 {
-                    isConsonantLetter = list[i] == "q" || list[i] == "w" || list[i] == "r" || list[i] == "t" || list[i] == "p" || list[i] == "s" ||
-                        list[i] == "d" || list[i] == "f" || list[i] == "g" || list[i] == "h" || list[i] == "j" || list[i] == "k" || list[i] == "l" ||
-                        list[i] == "z" || list[i] == "x" || list[i] == "c" || list[i] == "v" || list[i] == "b" || list[i] == "n" || list[i] == "m" ||
-                        list[i] == "Q" || list[i] == "W" || list[i] == "R" || list[i] == "T" || list[i] == "P" || list[i] == "S" ||
-                        list[i] == "D" || list[i] == "F" || list[i] == "G" || list[i] == "H" || list[i] == "J" || list[i] == "K" || list[i] == "L" ||
-                        list[i] == "Z" || list[i] == "X" || list[i] == "C" || list[i] == "V" || list[i] == "B" || list[i] == "N" || list[i] == "M";
+                    isConsonantLetter = list[i] == 'q' || list[i] == 'w' || list[i] == 'r' || list[i] == 't' || list[i] == 'p' || list[i] == 's' ||
+                        list[i] == 'd' || list[i] == 'f' || list[i] == 'g' || list[i] == 'h' || list[i] == 'j' || list[i] == 'k' || list[i] == 'l' ||
+                        list[i] == 'z' || list[i] == 'x' || list[i] == 'c' || list[i] == 'v' || list[i] == 'b' || list[i] == 'n' || list[i] == 'm' ||
+                        list[i] == 'Q' || list[i] == 'W' || list[i] == 'R' || list[i] == 'T' || list[i] == 'P' || list[i] == 'S' ||
+                        list[i] == 'D' || list[i] == 'F' || list[i] == 'G' || list[i] == 'H' || list[i] == 'J' || list[i] == 'K' || list[i] == 'L' ||
+                        list[i] == 'Z' || list[i] == 'X' || list[i] == 'C' || list[i] == 'V' || list[i] == 'B' || list[i] == 'N' || list[i] == 'M';
                 }
                 if (isVowelLetter)
                     numOfVowelLetter++;

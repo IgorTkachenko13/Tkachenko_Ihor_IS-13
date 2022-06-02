@@ -16,15 +16,16 @@ namespace Exercise2
         {
             string text = "helloworld";
             Dictionary<char, int> map = new();
+            var sortedMap = new SortedDictionary<char, int>(map);
             foreach (char c in text)
             {
-                if (map.ContainsKey(c))
-                    map[c]++;
+                if (sortedMap.ContainsKey(c))
+                    sortedMap[c]++;
                 else
-                    map[c] = 1;
+                    sortedMap[c] = 1;
             }
 
-            foreach (var pair in map)
+            foreach (var pair in sortedMap)
                 Console.WriteLine($"{pair.Key}: {pair.Value}");
 
             //Delay
