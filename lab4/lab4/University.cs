@@ -44,10 +44,14 @@ namespace lab4
             }
         }
 
+        public University(string name, int allStudentCount, int allTeacherCount)
+            : base(name, allStudentCount, allTeacherCount)
+        {
+           
+        }
         public University(string name)
             : base(name)
         {
-            
         }
     }
 }
